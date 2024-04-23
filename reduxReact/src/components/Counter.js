@@ -28,7 +28,6 @@ const increaseHandler = ()=>{
         <button onClick={incrementHandler}>Increment</button>   
         <button onClick={decrementHandler}>decrement</button>
         <button onClick={increaseHandler}>Increse by 10</button>
-
       </div>
       <button onClick={toggleCounterHandler}>Toggle center</button>
     </main>
